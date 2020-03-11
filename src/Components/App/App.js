@@ -9,7 +9,6 @@ class App extends Component {
     return (
       <div className="App">
             <header className="App-header">
-              <img src={logo} className="App-logo" alt="logo" />
             </header>
         <div className="container">
           <div className="row">
@@ -28,7 +27,7 @@ class App extends Component {
           </div>
         </div>
         <footer className="App-footer">
-          Simon Situ
+          Vulnscope
         </footer>
       </div>
     );

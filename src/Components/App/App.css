@@ -8,7 +8,7 @@
 }
 
 .App-header, .App-footer, .main-header {
-  background-color: #3498db;
+  background-color:#202124;
   color: white;
 }
 
@@ -25,6 +25,7 @@
   padding: 15px;
   margin-top: 20px;
   font-size: 20px;
+  text-align: left;
 }
 
 .App-footer {
@@ -39,3 +40,6 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 } */
+body{
+  background: #191919;
+}

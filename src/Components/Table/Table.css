@@ -1,4 +1,5 @@
 table {
+  color: white !important;
   border-collapse: collapse;
   border: 2px solid rgb(200,200,200);
   letter-spacing: 1px;
@@ -8,12 +9,14 @@ table {
 
 
 td, th {
-  border: 1px solid rgb(250, 250, 250);
+  border: 1px solid #191919;
   padding: 10px 20px;
+  color: white !important;
 }
 
 th {
-  background-color: rgb(235,235,235);
+  background-color: #191919;
+  color: white !important;
   font-size: 14px;
   font-weight: 600;
   color: #34495e;

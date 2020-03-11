@@ -1,9 +1,10 @@
-.camper-image {
-  height: 50px;
+.profile-image {
+  height: 30px;
+  width: 30px;
   vertical-align: middle;
   margin-right: 15px;
   border: 2px solid #2c3e50;
-  border-radius: 50px;
+  border-radius: 80px;
 }
 
 td, a {
@@ -14,6 +15,7 @@ td, a {
 
 a {
   text-decoration: none;
+  margin-left: 20%;
 }
 
 a:hover {
@@ -25,9 +27,9 @@ a:visited {
 }
 
 tr:nth-child(even) td {
-  background-color: rgba(250, 250, 250);
+  background-color: #191919;
 }
 
 tr:nth-child(odd) td {
-  background-color: rgb(245,245,245);
+  background-color: #191919;
 }
